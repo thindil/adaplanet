@@ -64,9 +64,16 @@ class Filter2Bridge extends FeedExpander {
          }
 			break;
 		case $this->getFilterType() === 'block':
-			if (!preg_match($this->getFilter(), $item['title'])) {
-				return $item;
-			}
+         $isBlocked = false;
+         foreach ($item['categories'] as $category) {
+            if ($this->getFilter() === $category) {
+               $isBlocked = true;
+               break;
+            }
+         }
+         if (!$isBlocked) {
+            return $item;
+         } 
 			break;
 		}
 		return null;
