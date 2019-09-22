@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Ada Planet</title>
+    <dateCreated>Sun, 22 Sep 2019 14:13:37</dateCreated>
+  </head>
+  <body>
+    <outline text="Blogs">
+      <outline text="blog.vacs.fr - Tag Ada" type="rss" xmlUrl="https://blog.vacs.fr/index.php?feed/tag/Ada/atom" htmlUrl="https://blog.vacs.fr/index.php?" description=""/>
+      <outline text="Gautier's blog" type="rss" xmlUrl="https://gautiersblog.blogspot.com/feeds/posts/default/-/Ada/?alt=rss" htmlUrl="https://gautiersblog.blogspot.com/search/label/Ada" description=""/>
+      <outline text="The AdaCore Blog" type="rss" xmlUrl="https://blog.adacore.com/feed" htmlUrl="http://blog.adacore.com/" description="An insight into the AdaCore ecosystem"/>
+      <outline text="Tomek Wałkuski" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter2&amp;url=https%3A%2F%2Ftomekw.com%2Frss%2F&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://tomekw.com/rss/" description=""/>
+      <outline text="Two-Wrongs" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter2&amp;url=https%3A%2F%2Ftwo-wrongs.com%2Ffeed&amp;filter=ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://two-wrongs.com/feed" description=""/>
+    </outline>
+    <outline text="Communities">
+      <outline text="Ada Passion - Facebook" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Facebook&amp;context=User&amp;u=https%3A%2F%2Fwww.facebook.com%2Fadapassion%2F&amp;media_type=all&amp;limit=-1&amp;format=Atom" htmlUrl="https://www.facebook.com/adapassion/posts?_fb_noscript=1" description=""/>
+      <outline text="Ada: When the software HAS to work" type="rss" xmlUrl="https://www.reddit.com/r/ada/.rss" htmlUrl="https://www.reddit.com/r/ada/" description="Pointers to news, articles, and other items of interest about the Ada programming language."/>
+      <outline text="comp.lang.ada" type="rss" xmlUrl="https://groups.google.com/forum/feed/comp.lang.ada/msgs/atom.xml?num=15" htmlUrl="https://groups.google.com/forum/#!forum/comp.lang.ada" description="Discussion about Ada*."/>
+      <outline text="Newest questions tagged ada - Stack Overflow" type="rss" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=ada&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=ada&amp;sort=newest" description="most recent 30 from stackoverflow.com"/>
+      <outline text="Twitter @adaprogrammers" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Twitter&amp;context=By+username&amp;u=adaprogrammers&amp;format=Atom" htmlUrl="https://twitter.com/adaprogrammers" description=""/>
+    </outline>
+    <outline text="News">
+      <outline text="Ada Resource Association" type="rss" xmlUrl="https://www.adaic.org/feed/" htmlUrl="https://www.adaic.org/" description="News and resource for the Ada programming language"/>
+      <outline text="Ada Virtual Conferences" type="rss" xmlUrl="https://www.laeran.pl/adaconference/feed/" htmlUrl="https://www.laeran.pl/adaconference" description=""/>
+      <outline text="Adacore" type="rss" xmlUrl="https://www.adacore.com/rss/all.rss" htmlUrl="https://www.adacore.com/" description="Founded in 1994, AdaCore is the leading provider of commercial software solutions for Ada, a state-of-the-art programming language designed for large, long-lived applications where safety, security, and reliability are critical. AdaCore's flagship product is the GNAT Pro development environment, which comes with expert on-line support and is available on more platforms than any other Ada technology."/>
+    </outline>
+    <outline text="Video">
+      <outline text="Ada language presentations" type="rss" xmlUrl="https://peertube.social/feeds/videos.xml?videoChannelId=3258" htmlUrl="https://peertube.social/" description="Channel for Ada language presentations"/>
+    </outline>
+  </body>
+</opml>
