@@ -34,7 +34,7 @@ steps:
 
 All code in **FreshRSS** directory is under GPL v3 license.
 
-All code in **RSS-Bridge** directory is under public domain.
+All code in **RSS-Bridge** directory is in public domain.
 
 ----
 
