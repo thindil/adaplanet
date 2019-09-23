@@ -21,14 +21,17 @@ steps:
 
 * Install FreshRSS as described [here](https://freshrss.github.io/FreshRSS/en/admins/02_Installation.html)
 
-* Replace files from installed version with files from **FreshRSS** directory from this project.
+* Replace files from installed version with files from **FreshRSS** directory
+  from this project.
 
 * Install RSS-Bridge as described [here](https://github.com/RSS-Bridge/rss-bridge/wiki/Installation)
 
 * Replace files from installed version with files from **RSS-Bridge** directory
   from this project.
 
-* Use feeds\_[Date].opml.xml file to fill your Ada Planet with proper RSS feeds.
+* Use feeds\_[Date].opml.xml file to fill your Ada Planet with proper RSS
+  feeds. You may need to replace links to www.laeran.pl instance of RSS-Bridge
+  with your own instance link.
 
 ## Legal
 
