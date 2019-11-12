@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Ada Planet</title>
-    <dateCreated>Mon, 23 Sep 2019 07:17:38</dateCreated>
+    <dateCreated>Tue, 12 Nov 2019 09:23:41</dateCreated>
   </head>
   <body>
     <outline text="Blogs">
       <outline text="AdaChess" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter&amp;url=http%3A%2F%2Fwww.adachess.com%2Ffeed&amp;filter=gsei%7CGSEI%7Cg-sei%7CG%5C-SeI&amp;filter_type=block&amp;format=Atom" htmlUrl="http://www.adachess.com/feed" description=""/>
       <outline text="blog.vacs.fr - Tag Ada" type="rss" xmlUrl="https://blog.vacs.fr/index.php?feed/tag/Ada/atom" htmlUrl="https://blog.vacs.fr/index.php?" description=""/>
+      <outline text="Forward in code" type="rss" xmlUrl="https://forward-in-code.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://forward-in-code.blogspot.com/" description="Software development; mainly Ada, mainly on macOS."/>
       <outline text="Gautier's blog" type="rss" xmlUrl="https://gautiersblog.blogspot.com/feeds/posts/default/-/Ada/?alt=rss" htmlUrl="https://gautiersblog.blogspot.com/search/label/Ada" description=""/>
       <outline text="The AdaCore Blog" type="rss" xmlUrl="https://blog.adacore.com/feed" htmlUrl="http://blog.adacore.com/" description="An insight into the AdaCore ecosystem"/>
       <outline text="Tomek Wałkuski" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter2&amp;url=https%3A%2F%2Ftomekw.com%2Frss%2F&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://tomekw.com/rss/" description=""/>
