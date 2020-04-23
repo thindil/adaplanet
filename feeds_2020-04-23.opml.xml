@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Ada Planet</title>
-    <dateCreated>Tue, 21 Apr 2020 07:41:40</dateCreated>
+    <dateCreated>Thu, 23 Apr 2020 07:26:32</dateCreated>
   </head>
   <body>
     <outline text="Blogs">
@@ -11,6 +11,7 @@
       <outline text="Forward in code" type="rss" xmlUrl="https://forward-in-code.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://forward-in-code.blogspot.com/" description="Software development; mainly Ada, mainly on macOS."/>
       <outline text="Gautier's blog" type="rss" xmlUrl="https://gautiersblog.blogspot.com/feeds/posts/default/-/Ada/?alt=rss" htmlUrl="https://gautiersblog.blogspot.com/search/label/Ada" description=""/>
       <outline text="HRRZI C(AC) &lt;- 0,,E" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter&amp;url=http%3A%2F%2Fwww.hrrzi.com%2F%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="http://www.hrrzi.com/" description=""/>
+      <outline text="Software Orthodoxy" type="rss" xmlUrl="https://sworthodoxy.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://sworthodoxy.blogspot.com/" description=""/>
       <outline text="The AdaCore Blog" type="rss" xmlUrl="https://blog.adacore.com/feed" htmlUrl="http://blog.adacore.com/" description="An insight into the AdaCore ecosystem"/>
       <outline text="Tomek Wałkuski" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter2&amp;url=https%3A%2F%2Ftomekw.com%2Frss%2F&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://tomekw.com/rss/" description=""/>
       <outline text="Two-Wrongs" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter2&amp;url=https%3A%2F%2Ftwo-wrongs.com%2Ffeed&amp;filter=ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://two-wrongs.com/" description=""/>
