@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Ada Planet</title>
-    <dateCreated>Sat, 27 Jun 2020 08:26:04</dateCreated>
+    <dateCreated>Fri, 10 Jul 2020 16:48:32</dateCreated>
   </head>
   <body>
     <outline text="Blogs">
@@ -11,6 +11,7 @@
       <outline text="Forward in code" type="rss" xmlUrl="https://forward-in-code.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://forward-in-code.blogspot.com/" description="Software development; mainly Ada, mainly on macOS."/>
       <outline text="Gautier's blog" type="rss" xmlUrl="https://gautiersblog.blogspot.com/feeds/posts/default/-/Ada/?alt=rss" htmlUrl="https://gautiersblog.blogspot.com/search/label/Ada" description=""/>
       <outline text="HRRZI C(AC) &lt;- 0,,E" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter&amp;url=http%3A%2F%2Fwww.hrrzi.com%2F%2Ffeeds%2Fposts%2Fdefault%3Falt%3Drss&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="http://www.hrrzi.com/" description=""/>
+      <outline text="Riccardo Bernardini" type="rss" xmlUrl="https://dev.to/feed/pinotattari" htmlUrl="https://dev.to/pinotattari" description="I graduated in 1990 in Electrical Engineering and since them I have been in university, doing research in the field of DSP.  To me programming is more a tool than a job."/>
       <outline text="Software Orthodoxy" type="rss" xmlUrl="https://sworthodoxy.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://sworthodoxy.blogspot.com/" description=""/>
       <outline text="The AdaCore Blog" type="rss" xmlUrl="https://blog.adacore.com/feed" htmlUrl="http://blog.adacore.com/" description="An insight into the AdaCore ecosystem"/>
       <outline text="Tomek Wałkuski" type="rss" xmlUrl="http://localhost/rssbridge/?action=display&amp;bridge=Filter&amp;url=https%3A%2F%2Ftomekw.com%2Ffeed.xml&amp;filter=Ada&amp;filter_type=permit&amp;format=Atom" htmlUrl="https://tomekw.com/feed.xml" description=""/>
@@ -21,10 +22,11 @@
       <outline text="Ada: When the software HAS to work" type="rss" xmlUrl="https://www.reddit.com/r/ada/.rss" htmlUrl="https://www.reddit.com/r/ada/" description="Pointers to news, articles, and other items of interest about the Ada programming language."/>
       <outline text="Newest questions tagged ada - Stack Overflow" type="rss" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=ada&amp;sort=newest" htmlUrl="https://stackoverflow.com/questions/tagged/?tagnames=ada&amp;sort=newest" description="most recent 30 from stackoverflow.com"/>
       <outline text="Twitter @adaprogrammers" type="rss" xmlUrl="https://nitter.net/adaprogrammers/rss" htmlUrl="https://twitter.com/adaprogrammers" description=""/>
-      <outline text="comp.lang.ada" type="rss" xmlUrl="https://www.laeran.pl/rssbridge/?action=display&amp;bridge=Filter&amp;url=https%3A%2F%2Fgroups.google.com%2Fforum%2Ffeed%2Fcomp.lang.ada%2Ftopics%2Fatom.xml%3Fnum%3D15&amp;filter=%28Sex%29%2B&amp;filter_type=block&amp;format=Atom" htmlUrl="https://groups.google.com/forum/feed/comp.lang.ada/topics/atom.xml?num=15" description=""/>
+      <outline text="comp.lang.ada" type="rss" xmlUrl="http://localhost/rssbridge/?action=display&amp;bridge=Filter&amp;url=https%3A%2F%2Fgroups.google.com%2Fforum%2Ffeed%2Fcomp.lang.ada%2Ftopics%2Frss.xml%3Fnum%3D15&amp;filter=%28%3Fi%29%28sex%7Cmeth%29&amp;filter_type=block&amp;format=Atom" htmlUrl="https://groups.google.com/forum/feed/comp.lang.ada/topics/atom.xml?num=15" description=""/>
     </outline>
     <outline text="News">
       <outline text="Ada Resource Association" type="rss" xmlUrl="https://www.adaic.org/feed/" htmlUrl="https://www.adaic.org/" description="News and resource for the Ada programming language"/>
+      <outline text="Ada Resource Association » Companies » PTC" type="rss" xmlUrl="https://www.adaic.org/company/ptc/feed" htmlUrl="https://www.adaic.org/" description="News and resource for the Ada programming language"/>
       <outline text="Adacore" type="rss" xmlUrl="https://www.adacore.com/rss/all.rss" htmlUrl="https://www.adacore.com/" description="Founded in 1994, AdaCore is the leading provider of commercial software solutions for Ada, a state-of-the-art programming language designed for large, long-lived applications where safety, security, and reliability are critical. AdaCore's flagship product is the GNAT Pro development environment, which comes with expert on-line support and is available on more platforms than any other Ada technology."/>
     </outline>
     <outline text="Video">
