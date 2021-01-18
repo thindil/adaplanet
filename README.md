@@ -10,9 +10,11 @@ Generally, the whole project is made from two parts:
 2. [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) to convert some
    content to RSS (or filter existing RSS feeds).
 
-If you have any questions or propositions about Ada Planet feel free to open
-issue here. You can also use this project issues to propose links which should
-be added to the Planet.
+If you read this file on Github: **please don't send pull requests here**. All
+will be automatically closed. Any code propositions should go to the [Fossil](https://www.laeran.pl/repositories/adaplanet)
+repository. If you have any questions or propositions about Ada Planet feel free to open
+[ticket](https://www.laeran.pl/repositories/adaplanet/tktnew) there. You can also use
+the project tickets or forum to propose links which should be added to the Planet.
 
 ## Legal
 
