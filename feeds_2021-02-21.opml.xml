@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Ada Planet</title>
-    <dateCreated>Sun, 17 Jan 2021 08:23:01</dateCreated>
+    <dateCreated>Sun, 21 Feb 2021 08:23:15</dateCreated>
   </head>
   <body>
     <outline text="Blogs">
       <outline text="@freeark1's Blog" type="rss" xmlUrl="https://www.blogger.com/feeds/2887999242329110331/posts/default" htmlUrl="https://blog.freeark1.com/" description="(ॐ) Here I will write about something which seems me interesting and useful for the readers. Stay tuned.&#10;Code provided on this site must NOT to be used in a production environment. © 2020 Amit Kumar"/>
       <outline text="AdaChess" type="rss" xmlUrl="http://localhost/rssbridge/?action=display&amp;bridge=Filter&amp;url=http%3A%2F%2Fwww.adachess.com%2Ffeed&amp;filter=gsei%7CGSEI%7Cg-sei%7CG%5C-SeI&amp;filter_type=block&amp;format=Atom" htmlUrl="http://www.adachess.com/feed" description=""/>
+      <outline text="Ada – Loper OS" type="rss" xmlUrl="http://www.loper-os.org/?cat=52&amp;feed=rss2" htmlUrl="http://www.loper-os.org/index.php?rest_route=/wp/v2/categories/52" description="&quot;You can't get to the moon by piling up chairs.&quot;"/>
       <outline text="Ada – The Craft of Coding" type="rss" xmlUrl="https://craftofcoding.wordpress.com/tag/ada/feed/" htmlUrl="https://craftofcoding.wordpress.com/" description="Musings on programming"/>
       <outline text="blog.vacs.fr - Tag Ada" type="rss" xmlUrl="https://blog.vacs.fr/index.php?feed/tag/Ada/atom" htmlUrl="https://blog.vacs.fr/index.php?" description=""/>
       <outline text="Forward in code" type="rss" xmlUrl="https://forward-in-code.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://forward-in-code.blogspot.com/" description="Software development; mainly Ada, mainly on macOS."/>
